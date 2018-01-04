@@ -1,0 +1,24 @@
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ashley 10-1</title>
+	</head>
+	<body bgcolor="black" text="purple">
+		
+		<hr>
+		
+		<hl> Night Life!!</hl>
+		
+		<hr>
+		
+		<p>Night Life!!</p>
+		<img src="upload.jpg"uttu alt="The Scientific Universe" height="800" width="800">
+		
+		<div style="border:7px dotted blue; font-size:px">
+		   <div style="border:5px solid red; text-align:center; font-size:35px">
+		   <h3><b>About</b> <i>these</i> <u>ghost:</u></h3>
+		   </div>
+		   <img src="14686605.jpg" alt="ghost" height="400 " width="285">
+	</body>
+</html>
